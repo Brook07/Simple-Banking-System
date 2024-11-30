@@ -1,7 +1,7 @@
 # Simple-Banking-System (C++)
 
 ## Overview
-This is a simple **Banking Management System** implemented in **C++** as part of a learning project to understand and apply the concepts of **Object-Oriented Programming (OOP)**. The system provides a menu-driven program to perform basic banking operations.
+This is a simple **Simple-Banking-System** implemented in **C++** as part of a learning project to understand and apply the concepts of **Object-Oriented Programming (OOP)**. The system provides a menu-driven program to perform basic banking operations.
 
 ## Features
 - **Create an Account**: Add new customer accounts with name, account number, and initial balance.
